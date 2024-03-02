@@ -1,5 +1,5 @@
 function App() {
-  return <div>a</div>;
+  return <div>Shared Component test</div>;
 }
 
 export default App;
