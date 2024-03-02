@@ -1,5 +1,5 @@
 function App() {
-  return <div>Shared Component test</div>;
+  return <div>Xerenity UI Component Library</div>;
 }
 
 export default App;
