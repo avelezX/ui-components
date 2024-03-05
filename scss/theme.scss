@@ -1,0 +1,14 @@
+@import '_variables.scss';
+@import 'bootstrap/scss/functions';
+@import 'bootstrap/scss/functions.scss';
+@import 'bootstrap/scss/variables.scss';
+@import 'bootstrap/scss/variables-dark.scss';
+
+$theme-colors: (
+  'primary': $purple-100,
+  // Purple
+  'purple-100': $purple-100,
+);
+
+@import 'bootstrap/scss/bootstrap.scss';
+@import 'components/Button.scss';
