@@ -23,7 +23,8 @@
     // Use semicolon as member delimiter for interfaces and type
     "@typescript-eslint/member-delimiter-style": 2,
     "@typescript-eslint/semi": 0,
-    "semi": [2, "always"]
+    "semi": [2, "always"],
+    "@typescript-eslint/no-var-requires": 0
   },
   "settings": {
     "react": {
